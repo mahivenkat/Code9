@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/91891/Code9/Code9/src/test/java/moduleTests/Module1InventoryTests.java">
+        <groups>
+            <run>
+                <exclude name="smoke"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="moduleTests.Module1InventoryTests">
+            </class>
+        </classes>
+    </test>
+</suite>
